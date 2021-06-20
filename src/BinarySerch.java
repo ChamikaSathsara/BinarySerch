@@ -37,12 +37,12 @@ public class BinarySerch {
                 }
             }
         }
-        System.out.println("=======================================================");
+        System.out.println("====================================================");
         for(int i=0; i<Arry.length; i++)
         {
             System.out.println(Arry[i]);
         }
-        System.out.println("=======================================================");
+        System.out.println("=====================================================");
         int stes=bserch(Arry,2);
         System.out.println("INDEX "+stes);
 
